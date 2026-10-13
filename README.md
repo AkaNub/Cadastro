@@ -7,15 +7,17 @@ Integrantes: Murilo Leonan, Renan Lucas e Tiago de Souza Mouta.
 O programa permite cadastrar, consultar, listar, alterar e excluir produtos pelo terminal.
 Cada produto possui codigo, nome, preco e quantidade. O limite e de 20 produtos.
 
-Para usar no Windows de 64 bits, baixe cadastro.exe e abra com dois cliques.
-O executavel ja esta pronto. Nao e necessario instalar um compilador.
+Forma principal: compilar o codigo main.c.
+Com GCC instalado, abra o terminal na pasta do projeto e execute:
+gcc main.c -o cadastro.exe
 
 Para executar no terminal do VS Code no Windows:
 .\cadastro.exe
 
+Forma secundaria: usar o executavel pronto.
+No Windows de 64 bits, baixe cadastro.exe e abra com dois cliques, sem precisar de um compilador.
+A geracao desse executavel foi feita com ajuda de IA para facilitar a execucao.
 Se alterar main.c, sera necessario compilar novamente para atualizar o executavel.
-Com GCC instalado, use:
-gcc main.c -o cadastro.exe
 
 Digite numeros nas opcoes do menu, nos codigos, nos precos e nas quantidades.
 Use um codigo diferente para cada produto.
