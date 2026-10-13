@@ -2,7 +2,7 @@ Cadastro de produtos em C
 
 Trabalho AT1 de Logica de Programacao e Algoritmos.
 
-Integrantes: Murilo Leonan, Renan e Tiago de Souza Mouta.
+Integrantes: Murilo Leonan, Renan Lucas e Tiago de Souza Mouta.
 
 O programa permite cadastrar, consultar, listar, alterar e excluir produtos pelo terminal.
 Cada produto possui codigo, nome, preco e quantidade. O limite e de 20 produtos.
